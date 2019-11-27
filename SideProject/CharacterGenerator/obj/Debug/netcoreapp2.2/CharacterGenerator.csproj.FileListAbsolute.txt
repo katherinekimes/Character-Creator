@@ -1,0 +1,22 @@
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.deps.json
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.runtimeconfig.json
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.runtimeconfig.dev.json
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.dll
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.pdb
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.csprojAssemblyReference.cache
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.AssemblyInfo.cs
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.dll
+C:\Users\KKimes\Desktop\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.pdb
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.csprojAssemblyReference.cache
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.AssemblyInfo.cs
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.dll
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\obj\Debug\netcoreapp2.2\CharacterGenerator.pdb
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.deps.json
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.runtimeconfig.json
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.runtimeconfig.dev.json
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.dll
+C:\Users\KKimes\Desktop\Notes and Projects\SideProject\CharacterGenerator\bin\Debug\netcoreapp2.2\CharacterGenerator.pdb
